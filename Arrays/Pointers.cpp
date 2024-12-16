@@ -12,6 +12,7 @@ int main()
     cout<<p<<endl;
     cout<<&p<<endl;
     cout<<*p<<endl;
+    //
 
 
 //pointer does not depends upon the datatypes
